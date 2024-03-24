@@ -8,3 +8,4 @@
   *  Mouse Left Click to Shoot
   *  Press ESC to quit game
 
+## Download the game from the "Render" folder
