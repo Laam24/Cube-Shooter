@@ -1,4 +1,10 @@
-"# Cube-Shooter" 
-"# temp" 
-"# temp" 
-"# Cube-Shooter" 
+# Cube shooter
+
+## Gameplay
+
+***Avoid enemy bullets to survive***
+
+  *  WASD/Arrow keys/Gamepad Joystick to move player
+  *  Mouse Left Click to Shoot
+  *  Press ESC to quit game
+
